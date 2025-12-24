@@ -1,0 +1,6 @@
+age_group,Arthritis,Asthma,Diabetes,Flu,Heart Disease,Hypertension
+0-18,0,0,0,1,0,0
+19-35,0,2,3,2,0,0
+36-50,1,1,1,0,0,3
+51-65,1,0,1,0,2,1
+65+,0,0,0,0,1,0

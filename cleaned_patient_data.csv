@@ -1,0 +1,21 @@
+patient_id,age,gender,disease,city,age_group
+P001,25,Male,Diabetes,Bangalore,19-35
+P002,42,Female,Hypertension,Chennai,36-50
+P003,35,Male,Asthma,Hyderabad,19-35
+P004,29,Female,Diabetes,Mumbai,19-35
+P005,61,Male,Heart Disease,Delhi,51-65
+P006,50,Female,Hypertension,Bangalore,36-50
+P007,18,Male,Flu,Pune,0-18
+P008,45,Female,Arthritis,Chennai,36-50
+P009,33,Male,Asthma,Hyderabad,19-35
+P010,70,Female,Heart Disease,Kolkata,65+
+P011,55,Male,Diabetes,Delhi,51-65
+P012,40,Female,Hypertension,Mumbai,36-50
+P013,27,Male,Flu,Bangalore,19-35
+P014,65,Female,Arthritis,Pune,51-65
+P015,38,Male,Diabetes,Chennai,36-50
+P016,48,Female,Asthma,Hyderabad,36-50
+P017,52,Male,Hypertension,Delhi,51-65
+P018,23,Female,Flu,Mumbai,19-35
+P019,60,Male,Heart Disease,Bangalore,51-65
+P020,34,Female,Diabetes,Pune,19-35
